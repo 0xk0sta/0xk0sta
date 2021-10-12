@@ -8,7 +8,7 @@
 
 ![GIT STATS](https://github-readme-stats.vercel.app/api/top-langs/?username=0xk0sta&layout=compact&exclude_repo=ft_server&langs_count=100&theme=dark)
 
-## Interests
+## Projects status
 |   Projects	|  Score	| Type |
 |---	|---	|--- |
 | Libft |[![acostal- 42Project Score](https://badge42.herokuapp.com/api/project/acostal-/Libft)](https://github.com/0xk0sta) | C Library |
@@ -17,6 +17,8 @@
 | Printf	| [![acostal- 42Project Score](https://badge42.herokuapp.com/api/project/acostal-/ft_printf)](https://github.com/0xk0sta) | C Library |
 | Push_Swap | [![acostal- 42Project Score](https://badge42.herokuapp.com/api/project/acostal-/push_swap)](https://github.com/0xk0sta) | C & Algorithms |
 
+## Interests
+I'm interested on computer forensics && DFIR, C, C# & assembly lang, I'm also interested in malware development and malware analysis. 
 <!--
 **0xk0sta/0xk0sta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
