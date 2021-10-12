@@ -1,4 +1,12 @@
 ### Hi there 👋
+# Welcome to acostal's git
+
+## 42 CURSUS STATS
+[![acostal- 42 stats](https://badge42.herokuapp.com/api/stats/acostal-?privacyEmail=false)](https://profile.intra.42.fr/users/acostal-/)
+
+## GIT STATS
+
+![GIT STATS](https://github-readme-stats.vercel.app/api/top-langs/?username=0xk0sta&layout=compact&exclude_repo=ft_server&langs_count=100&theme=dark)
 
 <!--
 **0xk0sta/0xk0sta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
