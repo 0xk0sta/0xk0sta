@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Welcome to acostal's git
+# Hi there 👋. Welcome to my git repo!
 
 ## 42 CURSUS STATS
 [![acostal- 42 stats](https://badge42.herokuapp.com/api/stats/acostal-?privacyEmail=false)](https://profile.intra.42.fr/users/acostal-/)
