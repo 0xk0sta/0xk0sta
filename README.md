@@ -11,11 +11,11 @@
 ## Interests
 |   Projects	|  Score	| Type |
 |---	|---	|--- |
-| Libft |[![acostal- 42Project Score](https://badge42.herokuapp.com/api/project/acostal-/Libft)](https://github.com/0xk0sta) | C project |
+| Libft |[![acostal- 42Project Score](https://badge42.herokuapp.com/api/project/acostal-/Libft)](https://github.com/0xk0sta) | C Library |
 | Born2BeRoot | [![acostal- 42Project Score](https://badge42.herokuapp.com/api/project/acostal-/Born2beroot)](https://github.com/0xk0sta) | Systems and Virtualization |
-| Get_Next_Line	| [![acostal- 42Project Score](https://badge42.herokuapp.com/api/project/acostal-/get_next_line)](https://github.com/0xk0sta) | C project |
-| Printf	| [![acostal- 42Project Score](https://badge42.herokuapp.com/api/project/acostal-/ft_printf)](https://github.com/0xk0sta) | C project |
-| Push_Swap | [![acostal- 42Project Score](https://badge42.herokuapp.com/api/project/acostal-/push_swap)](https://github.com/0xk0sta) | Algorithms & C |
+| Get_Next_Line	| [![acostal- 42Project Score](https://badge42.herokuapp.com/api/project/acostal-/get_next_line)](https://github.com/0xk0sta) | C Function |
+| Printf	| [![acostal- 42Project Score](https://badge42.herokuapp.com/api/project/acostal-/ft_printf)](https://github.com/0xk0sta) | C Library |
+| Push_Swap | [![acostal- 42Project Score](https://badge42.herokuapp.com/api/project/acostal-/push_swap)](https://github.com/0xk0sta) | C & Algorithms |
 
 <!--
 **0xk0sta/0xk0sta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
