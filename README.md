@@ -14,7 +14,7 @@
 
 ## Interests
 - 🎓 I'm a systems and networking tech, I graduated on 2020 on [IES RAFAEL ALBERTI](https://iesrafaelalberti.es/) (Cádiz). Currently I'm on [42 Madrid](https://www.42madrid.com/), right now I'm on the common-core.
-- 🧠 I'm interested on computer forensics && DFIR, C, C# & assembly lang, I'm also interested in malware development and malware analysis. 
+- 🧠 I'm interested on DFIR, C, C# & ASM, I'm also interested in malware development and malware analysis. 
 
 ## GIT Stats
 
