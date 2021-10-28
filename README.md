@@ -11,6 +11,7 @@
 | Get_Next_Line	| [![acostal- 42Project Score](https://badge42.herokuapp.com/api/project/acostal-/get_next_line)](https://github.com/0xk0sta) | C Function |
 | Printf	| [![acostal- 42Project Score](https://badge42.herokuapp.com/api/project/acostal-/ft_printf)](https://github.com/0xk0sta) | C Library |
 | Push_Swap | [![acostal- 42Project Score](https://badge42.herokuapp.com/api/project/acostal-/push_swap)](https://github.com/0xk0sta) | C & Algorithms |
+| So_Long | [![acostal- 42Project Score](https://badge42.herokuapp.com/api/project/acostal-/so_long)](https://github.com/0xk0sta) | C Graphics |
 
 ## Interests
 - 🎓 I'm a systems and networking tech, I graduated on 2020 on [IES RAFAEL ALBERTI](https://iesrafaelalberti.es/) (Cádiz). Currently I'm on [42 Madrid](https://www.42madrid.com/), right now I'm on the common-core.
