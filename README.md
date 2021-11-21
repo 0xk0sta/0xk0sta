@@ -21,7 +21,10 @@
 
 ## GIT Stats
 
-![GIT STATS](https://github-readme-stats.vercel.app/api/top-langs/?username=0xk0sta&layout=compact&exclude_repo=ft_server&langs_count=100&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xk0sta&show_icons=true&count_private=true&hide=contribs&theme=dark)
+
+![GIT MostUsedLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xk0sta&layout=compact&exclude_repo=ft_server&langs_count=100&theme=dark)
 
 
 <!--
