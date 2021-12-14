@@ -2,7 +2,7 @@
 
 ## 42 CURSUS STATS
 [![acostal- 42 stats](https://badge42.herokuapp.com/api/stats/acostal-?privacyEmail=false)](https://profile.intra.42.fr/users/acostal-/)
-
+[![Visitor counter](https://visitor-badge.laobi.icu/badge?page_id=0xk0sta.0xk0sta)]
 ## Projects status
 |   Projects	|  Score	| Type |
 |---	|---	|--- |
