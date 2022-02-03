@@ -18,7 +18,7 @@
 | Minishell | [![acostal- 42Project Score](https://badge42.herokuapp.com/api/project/acostal-/minishell)](https://github.com/0xk0sta) | C Mini-bash recreation |
 
 ## Interests
-- 🎓 I'm a systems and networking tech, I graduated on 2020 on [IES RAFAEL ALBERTI](https://iesrafaelalberti.es/) (Cádiz). Currently I'm on [42 Madrid](https://www.42madrid.com/), right now I'm on the common-core.
+- 🎓 I'm a systems and networking tech, I graduated on 2021 on [IES RAFAEL ALBERTI](https://iesrafaelalberti.es/) (Cádiz). Currently I'm on [42 Madrid](https://www.42madrid.com/), right now I'm on the common-core.
 - 🧠 I'm interested on DFIR, C, C# & ASM, I'm also interested in malware development and malware analysis. 
 
 ## GIT Stats
